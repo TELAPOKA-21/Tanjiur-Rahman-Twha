@@ -3,16 +3,18 @@
 Name: Tanjiur Rahman TWHA
 Alias: TELAPOKA
 -------------------------
-You are looking at a Parson
-who is interested in:
+You are looking at a Person 
+who is interested and experienced in:
 
     C
     Java
+    Python
     Linux
     Networking
     Cyber Security
     Bug Finding
     Code Analysis
+    
 
 But that's not the interesting part.
 
